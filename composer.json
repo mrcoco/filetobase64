@@ -1,0 +1,22 @@
+{
+	"name": "mrcoco/filetobase64",
+	"type": "library",
+	"version": "0.0.1",
+	"description": "file to base64 encode",
+	"keywords": ["base64"],
+	"homepage": "http://github.com/mrcoco/filetobase64",
+	"license": "MIT",
+	"authors": [
+	    {
+	      "name": "Dwi Agus Purwanto",
+	      "email": "dwiagus@cempakaweb.com",
+	      "homepage": "http://cempakaweb.com"
+	    }
+	  ],
+	"require": {
+	    "php": ">=5.3"
+	  },
+	"autoload": {
+	    "psr-4": { "Mrcoco\\": "src"}
+	  }
+}
